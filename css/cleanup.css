@@ -5,8 +5,6 @@
   width: 980px;
   height: 622px;
   background: url(../images/wall.jpg) no-repeat center;
-  -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
-  -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   border: 15px solid white;
   border-bottom: 60px solid white;
